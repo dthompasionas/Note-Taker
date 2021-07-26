@@ -30,7 +30,8 @@ In order to use this app, it is run through heroku
 # Contribute
 not currently taking contributions
 
-#Screenshot:
+# Screenshot:
+![](public/assets/images/note-taker-screenshot.png)
 
 # Questions
 Contact me with any questions here:
